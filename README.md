@@ -39,7 +39,7 @@ cd webcounter2
 
 We will build a base image, will add it in virtualbox and upload the setting into the created machine. As a result will have a simple web site running on **localhost** on port **8000** that counts the number of times the page was accessed.
 
-### Break down into end to end tests
+### Creating the virtualbox image, importing it and setting it up 
 
 
 First we will use packer to create base virtualbox image for the project.
