@@ -72,4 +72,4 @@ After vagrant builds the vm, you should be able to access http://localhost:8000.
 *  [Packer code for Ubuntu 18.04 box](https://github.com/kikitux/packer_bionic64)
 *  [How to Use Redis With Python](https://realpython.com/python-redis/)
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
