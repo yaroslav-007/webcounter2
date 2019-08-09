@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Simple Web counter</title>
+    </head>
+
+    <body background="http://sf.co.ua/13/05/wallpaper-2781585.jpg" style="color: #000000;" >
+        <marquee><h1>This is simple web counter</h1></marquee>
+        <font size="5"><p>You are visitor number: <b>{% autoescape off %}{{ chislo }}{% endautoescape %}</b><br>You have accessed this site on  <b>{% autoescape off %}{{ date }}{% endautoescape %}</b> Europe/Sofia.</p></font>
+   </body>
+</html>
